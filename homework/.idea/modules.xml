@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_Transport/Inheritance_Transport.iml" filepath="$PROJECT_DIR$/Inheritance_Transport/Inheritance_Transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringUtils_Example/StringUtils_Example.iml" filepath="$PROJECT_DIR$/StringUtils_Example/StringUtils_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework.iml" filepath="$PROJECT_DIR$/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http_client_example/http_client_example.iml" filepath="$PROJECT_DIR$/http_client_example/http_client_example.iml" />
+    </modules>
+  </component>
+</project>

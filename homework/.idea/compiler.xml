@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="http_client_example" />
+        <module name="Inheritance_Transport" />
+        <module name="StringUtils_Example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="homework" target="1.8" />
+      <module name="http_client_example" target="1.8" />
+      <module name="Inheritance_Transport" target="1.8" />
+      <module name="StringUtils_Example" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
